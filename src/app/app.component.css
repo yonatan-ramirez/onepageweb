@@ -1,0 +1,94 @@
+.links{
+  padding: 5px;
+  cursor: pointer;
+  display: flex;
+  font-size: 13px;
+  color: lightgray;
+}
+#phone{
+  height: 450px;
+  width: 420px;
+}
+a:hover{
+  color:yellow;
+}
+.brand{
+  font-size: 15px;
+  margin-left: 2em;
+  color: yellow;
+}
+.one{
+  height: 500px;
+  width: 100%;
+}
+h1{
+  font-size:50px;
+  float:left;
+}
+.btn{
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 30px;
+  color: white;
+}
+.bg{
+  background:url('https://blackrockdigital.github.io/startbootstrap-new-age/img/bg-pattern.png'), linear-gradient(to left, purple, rgb(238, 90, 90));
+  height: 100%;
+  width: 100%;
+}
+.rone{
+  display: table;
+  text-align: center;
+  width: 100%;
+  color: white;
+}
+.col-xs-12{
+  float: left;
+  margin-top: 20px;
+  width: 50%;
+  height: 100%;
+}
+/* second */
+.two{
+  width: 100%;
+  height:400px;
+}
+.rtwo{
+  color: black;
+  width: 100%;
+}
+.col-sm-12{
+  display: flex;
+  justify-content: center;
+}
+h2{
+  font-size: 60px;
+}
+.logo{
+  width: 300px;
+  height: 100px;
+}
+.info{
+  padding: 3em;
+  text-align: center;
+  width: 70%;
+  height: 300px;
+}
+.bg2{
+  background-color: rgb(228, 228, 78);
+}
+/* third */
+.third{
+  width: 100%;
+  height: 500px;
+}
+.thirdHeader{
+  padding: 2em;
+  text-align: center;
+
+}
+.thirdHeader2{
+  float: left;
+
+
+}
